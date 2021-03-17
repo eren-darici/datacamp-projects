@@ -21,6 +21,7 @@
         <li><a href="#the-github-history-of-the-scala-language">The GitHub History of the Scala Language</a></li>
         <li><a href="#the-android-app-market-on-google-play">The Android App Market on Google Play</a></li>
         <li><a href="#tv-halftime-shows-and-the-big-game">TV, Halftime Shows, and the Big Game</a></li>
+        <li><a href="#a-visual-history-of-nobel-prize-winners">A Visual History of Nobel Prize Winners</a></li>
       </ul>
     </li>
 
@@ -37,3 +38,7 @@
 <li>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. <a href = "https://github.com/eren-darici/datacamp-projects/tree/master/The%20Android%20App%20Market%20on%20Google%20Play">In this notebook</a>, I've done a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I took a look for insights in the data to devise strategies to drive growth and retention.</li>
 
 ### TV, Halftime Shows, and the Big Game
+<li><a href="https://github.com/eren-darici/datacamp-projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game">In this notebook</a>, I've cleaned and explored data from SuperBowl find out how some of the elements of this show interact with each other.</li>
+
+### A Visual History of Nobel Prize Winners
+<li>The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. <a href="https://github.com/eren-darici/datacamp-projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners">In this notebook</a>, I've explored and visualized Nobel Prize Winners.</li>
